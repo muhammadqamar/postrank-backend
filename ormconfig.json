@@ -1,0 +1,11 @@
+
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 8000,
+  "username": "your_username",
+  "password": "your_password",
+  "database": "postrank_db",
+  "entities": ["dist/**/*.entity.js"],
+  "synchronize": true
+}
